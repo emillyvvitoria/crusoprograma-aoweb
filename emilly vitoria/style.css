@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body
+{
+    font-family: 'Poppins', sans-serif
+}
+.nav_bar
+{
+    width: 1280px;
+    margin: 0 auto;
+}
+.titulo
+{
+    text-align: center;
+    background-color: white;
+    margin: 15px 15px;
+}
+.banner
+{
+    background-image: url('logo_quemsomos-02.png');
+}
+.nav
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin: 4rem 0;
+}
+.btn
+{
+    background-color: #6E005f;
+    border: none;
+    cursor: pointer;
+    height: 44px;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.btn:hover
+{
+    color: #cecdcd;
+    border-radius: 10px;
+    border-bottom: 2px solid var(--text-description-color);
+}
+h2
+{
+    font-size:22px;
+    border-bottom: 5px solid #fc6521;
+    padding-top: 15px;
+    margin: 2rem;
+    padding-bottom: 8px;
+    font-weight: 700;
+    display: inline-block;
+}
+.impacto
+{
+    background-color: #6E005f;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.card
+{
+    height: 550px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: #ffffffce;
+    margin: 2rem;
+    text-align: center;
+}
+.imgAlunes
+{
+    margin-top: 2rem;
+    width: 200px;
+    height: 200px;
+}
+.relato
+{
+    margin: 2rem;
+    text-align: left;
+    line-height: 1rem;
+    height: 550px;
+}
+footer
+{
+    background: #6E005f;
+    background: linear-gradient(180deg,#6E005f 0%, rgba(0,0,0,0.925)49%);
+    height: 300px;
+    color: #fff;
+    text-align: center;
+}
+.ritma{
+    text-align: center;
+    padding: 20px;
+
+}
+.sobreNos{
+    display: inline-block;
+    border-bottom: 5px solid orangered;
+    font-size: 20px; 
+    margin-top: 1rem;
+    font-weight: 700;
+
+}
+.descricao{
+    text-align: center;
+    margin: 10px 10px 40px 10px;
+}
+.imgfooter{
+    border-radius: 50px;
+}@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body
+{
+    font-family: 'Poppins', sans-serif
+}
+.nav_bar
+{
+    width: 1280px;
+    margin: 0 auto;
+}
+.titulo
+{
+    text-align: center;
+    background-color: white;
+    margin: 15px 15px;
+}
+.banner
+{
+    background-image: url(gatinho.png);
+    height: 278px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.nav
+{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    margin: 4rem 0;
+}
+.btn
+{
+    background-color: #6E005f;
+    border: none;
+    cursor: pointer;
+    height: 44px;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.btn:hover
+{
+    color: #cecdcd;
+    border-radius: 10px;
+    border-bottom: 2px solid var(--text-description-color);
+}
+h2
+{
+    font-size:22px;
+    border-bottom: 5px solid #fc6521;
+    padding-top: 15px;
+    margin: 2rem;
+    padding-bottom: 8px;
+    font-weight: 700;
+    display: inline-block;
+}
+.impacto
+{
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(110,0,95,1) 100%);;
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.card
+{
+    height: 550px;
+    width: 400px;
+    border-radius: 10px;
+    background-color: #ffffffce;
+    margin: 2rem;
+    text-align: center;
+}
+.imgAlunes
+{
+    margin-top: 2rem;
+    width: 200px;
+    height: 200px;
+}
+.relato
+{
+    margin: 2rem;
+    text-align: left;
+    line-height: 1rem;
+    height: 550px;
+}
+.rodape
+{
+    background: rgb(165, 85, 155);
+  /*  background: linear-gradient(180deg, rgba(245,26,215,1) 0%, rgba(34,29,33,1) 100%);*/
+    height: 300px;
+    color: #fff;
+    text-align: center;
+}
+.ritma{
+    text-align: center;
+    padding: 20px;
+
+}
+.sobreNos{
+    display: inline-block;
+    border-bottom: 5px solid orangered;
+    font-size: 20px; 
+    margin-top: 1rem;
+    font-weight: 700;
+
+}
+.descricao{
+    text-align: center;
+    margin: 10px 10px 40px 10px;
+}
+.imgfooter{
+    border-radius: 50px;
+}
